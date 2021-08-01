@@ -1,0 +1,58 @@
+.nav-item1 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item2 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item3 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item4 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item4:hover {
+	border-radius: 50px;
+	border: 2px solid crimson;
+	transition: 1s ease;
+}
+.hd_1 {
+	font-size: 3px;
+}
+.navbar {
+	border-bottom: 3px solid #16a085;
+}
+.container {
+	margin-top: -15px;
+}
+.gb_2 {
+	padding-bottom: 20px;
+	padding-left: 4px;
+	text-align: justify;
+	font-size: 18px;
+	font-family: Calibri;
+}
+.btn1 {
+	margin-bottom: 40px;
+}
+.btn2 {
+	margin-bottom: 40px;
+}
+.btn3 {
+	margin-bottom: 40px;
+}
+footer {
+	margin-top: -40px;
+	border-top: 3px solid #16a085;
+}

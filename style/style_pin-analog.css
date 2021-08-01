@@ -1,0 +1,63 @@
+.nav-item1 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item2 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item3 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item4 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item4:hover {
+	border-radius: 50px;
+	border: 2px solid crimson;
+	transition: 1s ease;
+}
+.jumbotron {
+	padding-top: 4%;
+	padding-bottom: 2%;
+	border-radius: 0px;
+}
+.list-comment p{
+	font-size: 15px;
+}
+.list-comment h4{
+	font-size: 20px;
+}
+.comment input[type="text"] {
+
+}
+.comment input[type="submit"] {
+	
+}
+.comment label {
+	font-size: 20px;
+}
+pre {
+	color: #212529;
+    border: 2px solid #fafafa;
+    border-radius: 6px;
+    padding: 10px;
+    background-color: #fafafa;
+}
+nav {
+	border-bottom: 3px solid #16a085;
+}
+footer {
+	margin-top: -40px;
+	border-top: 3px solid #16a085;
+}

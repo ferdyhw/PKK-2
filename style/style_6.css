@@ -1,0 +1,68 @@
+body {
+	background: #e9ecef;
+}
+.nav-item1 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item2 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item3 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item4 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item4:hover {
+	border-radius: 50px;
+	border: 2px solid crimson;
+	transition: 1s ease;
+}
+.container {
+	margin-bottom: 20px;
+	background: #ffffff;
+	border: 2px solid #dfdfdf;
+}
+.soal h3 { 
+	font-size: 45px;
+	padding-top: 10px;
+}
+.soal {
+	margin-top: 20px;
+	margin-bottom: 60px;
+	color: #343a40;
+}
+input[type="submit"] {
+	border: none;
+	color: #fff;
+	background: #16a085;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 10px;
+}
+input[type="submit"]:hover {
+	background: #343a40;
+	color: #16a085;
+	transition: 0.8s ease;
+}
+nav {
+	border-bottom: 3px solid #16a085;
+}
+footer {
+	margin-top: -40px;
+	border-top: 3px solid #16a085;
+}

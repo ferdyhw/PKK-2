@@ -1,0 +1,59 @@
+.nav-item1 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item2 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item3 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item4 {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 50px;
+	border: 2px solid #343a40;
+}
+.nav-item4:hover {
+	border-radius: 50px;
+	border: 2px solid #16a085;
+	transition: 1s ease;
+}
+.jumbotron {
+	padding-top: 4%;
+	padding-bottom: 4%;
+	border-radius: 0px;
+}
+.heading_1 {
+	padding: 20px;
+}
+.heading_2 {
+	padding: 20px;
+}
+.heading_3 {
+	padding: 20px;
+}
+.gb_1 {
+	text-align: justify;
+}
+.gb_2 {
+	text-align: justify;
+}
+nav {
+	border-bottom: 3px solid #16a085;
+}
+footer {
+	margin-top: 25px;
+	border-top: 3px solid #16a085;
+}
+a i .fb {
+	color: red;
+}
